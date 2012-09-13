@@ -1,0 +1,124 @@
+
+	*{
+		padding:0;
+		margin:0;
+	}
+	body{
+		
+	}
+	.badboy{
+		clear:both;
+		width:0 !important;
+		height:0 !important;
+		float:none !important;
+		min-height:0 !important;
+		min-width:0 !important;
+		overflow :none;
+	}
+	div.container{
+		
+			background-image:url('pic1.jpg');
+	background-repeat:no-repeat;	
+			width   :950px;	
+			margin  :0 auto;	
+			min-height:1198px;
+			
+			
+		
+			}
+			
+			div.floor1,
+			div.floor2,
+			div.floor3,
+			div.floor4,
+			div.floor5,{		
+			margin-top :10px;	
+			padding :1px 0;;
+			border-bottom:2px dashed black;
+			}
+			div.floor1 {
+				border-bottom:2px dashed black;
+				min-height:200px;
+			}
+			div.floor1 div.part1-left{
+				float:left;
+				width:317px;
+				border-bottom:2px dashed black;
+				border-right:2px dashed black;
+				min-height:200px;
+			}
+			div.floor1 div.part1-right{
+				margin-left:320px;
+				width:633px;
+				border-bottom:2px dashed black;
+				border-right:2px dashed black;
+				min-height:200px;
+			}
+			div.floor1 div.part1-right div.part1-right-top{
+				
+				width:633px;
+				border-bottom:2px dashed black;
+				border-right:2px dashed black;
+				min-height:60px;
+			}
+			div.floor1 div.part1-right div.part1-right-bottem{
+				
+				width:633px;
+				border-bottom:2px dashed black;
+				border-right:2px dashed black;
+				min-height:135px;
+			}
+			div.floor2 {
+				border-bottom:2px dashed black;
+				min-height:330px;
+			}
+			div.floor3{
+				border-bottom:2px dashed black;
+				min-height:320px;
+				}
+			div.floor3 div.part3-left{
+				float:left;
+				width:317px;
+				border-bottom:2px dashed black;
+				border-right:2px dashed black;
+				min-height:320px;
+			}
+			div.floor3 div.part3-center{
+				float:left;
+				width:317px;
+				border-bottom:2px dashed black;
+				border-right:2px dashed black;
+				min-height:320px;
+			}
+			
+			
+			div.floor4{
+				border-bottom:2px dashed black;
+				min-height:220px;
+				}
+			div.floor4 div.part4-left{
+				float:left;
+				width:240px;
+				border-bottom:2px dashed black;
+				border-right:2px dashed black;
+				min-height:220px;
+			}
+			div.floor4 div.part4-right{
+				margin-left:auto;
+				width:240px;
+				border-bottom:2px dashed black;
+				border-right:2px dashed black;
+				min-height:220px;
+			}
+			div.floor5{
+				border-bottom:2px dashed black;
+				min-height:135px;
+				}
+			div.floor5 div.part5-left{
+				float:left;
+				width:317px;
+				border-bottom:2px dashed black;
+				border-right:2px dashed black;
+				min-height:135px;
+			}
+	
